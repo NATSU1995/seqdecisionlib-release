@@ -1,6 +1,7 @@
 # Sequential Decision Problem Modeling Library
 
 Sequential Decision Problem Modeling Library @ Castle Lab, Princeton Univ.
+https://castlelab.princeton.edu/
 
 ## Installation
 
